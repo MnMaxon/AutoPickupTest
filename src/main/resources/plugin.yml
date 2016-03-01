@@ -1,0 +1,4 @@
+name: AutoPickupTest
+version: 1.0
+main: me.MnMaxon.AutoTest.AutoTest
+depends: AutoPickup
